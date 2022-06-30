@@ -1,6 +1,6 @@
 {
     "port":5000,
     "jwtSecret":"jwt-secret",
-    "mongoUrl":"mongodb+srv://Admin:admin@cluster0.wiw6y5w.mongodb.net/?retryWrites=true&w=majority",
+    "mongoUrl":"url",
     "baseUrl":"http://localhost:5000"
 }
